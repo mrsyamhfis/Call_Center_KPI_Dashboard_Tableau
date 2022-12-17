@@ -2,3 +2,4 @@
 ## A Tableau dashboard building practice with a call center dataset obtained from Kaggle.
 ![Dashboard 1](https://user-images.githubusercontent.com/112166780/208233365-c62c813d-39a7-4326-93c7-024da18be01e.png)
 ### Data source: https://www.kaggle.com/datasets/hamedetezadi/callcenter-wallboard-data
+### Dashboard link: https://public.tableau.com/views/CallcenterKPI/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
